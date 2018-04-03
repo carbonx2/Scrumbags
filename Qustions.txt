@@ -1,0 +1,4 @@
+1) Do we need to add all the system activities ?
+2) Do we need to add description to the use-case?
+3) Can the teacher get a statistic analysis of an exam which she committed but not wrote?
+4) TBD
