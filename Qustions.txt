@@ -1,7 +1,2 @@
 1) Can the teacher get a statistic analysis of an exam which she committed but not wrote?
-<<<<<<< HEAD
 2) Can a teacher lock an exam which she didn't executed?
-3) test?
-=======
-2) Can a teacher lock an exam which she didn't executed yoni its working?
->>>>>>> ef8392dd9560bcdc13ab0e3adad26a9761131292
