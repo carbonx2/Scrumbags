@@ -1,7 +1,3 @@
 1) Can the teacher get a statistic analysis of an exam which she committed but not wrote?
-<<<<<<< HEAD
 2) Can a teacher lock an exam which she didn't executed ?
 3)If a student submit an exam before anyone else start, does the exam being locked up ?
-=======
-2) Can a teacher lock an exam which she didn't executed?
->>>>>>> 1478a0a686af4c0ea24b6a3f4d5d20a953ed0191
